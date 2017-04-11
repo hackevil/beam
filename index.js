@@ -73,7 +73,7 @@ var cloudObj = function() {
 			onComplete();
 			return;
 		});
-		// var storage = mega({email:'pcaeu1@hrku.cf', password:'bmsce123', keepalive: false}),
+		// var storage = mega({email:'wgh10736@disaq.com', password:'ta6ptfV!v#ksah', keepalive: false}),
 		// fname = path.basename(tmpFile),
 		// fsize = fs.statSync(tmpFile).size,
 		// prev = 0;
